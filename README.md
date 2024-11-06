@@ -1,5 +1,6 @@
 ## ux-coke
 
+https://img.shields.io/github/downloads/userxx77/ux-coke/total?logo=github
 
 ## To Do
 
